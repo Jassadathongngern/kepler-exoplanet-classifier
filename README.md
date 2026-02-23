@@ -1,4 +1,4 @@
-# Kepler Exoplanet Classifier 🪐
+# Kepler Exoplanet Classifier
 
 ## Project Overview
 
